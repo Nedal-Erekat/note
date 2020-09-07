@@ -1,0 +1,30 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "node development",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedal-401-advanced-javascript/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedal-401-advanced-javascript/notes/issues"
+  },
+  "homepage": "https://github.com/Nedal-401-advanced-javascript/notes#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
