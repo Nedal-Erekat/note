@@ -22,6 +22,6 @@ const Note = require('./lib/notes.js')
 const obj = new Input();
 
 //Passes the command to the Notes library, which executes the command
-const note1 = new Note(obj)
+async const note1 = new Note(obj)
 
-// mongoose.disconnect()
+await mongoose.disconnect();
