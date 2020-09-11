@@ -9,3 +9,7 @@ For Applications:
 How do I run the app?
 
 How do I set up the app?
+
+
+UML
+![uml](./assest/img/NotesyDiagram.jpg)
