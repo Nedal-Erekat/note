@@ -3,7 +3,7 @@ How do I install the app or library?
 
 
 How do I test the app or library?
-npm test 
+`$npm test` 
 
 For Applications:
 
