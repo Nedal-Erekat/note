@@ -3,7 +3,7 @@ How do I install the app or library?
 
 
 How do I test the app or library?
-npm test 
+`$npm test` 
 
 For Applications:
 
@@ -15,3 +15,7 @@ you can add notes by CLI as following:
     for all lists--->   - `$./notes.js --list
 
 How do I set up the app?
+
+
+UML
+![uml](./assest/img/NotesyDiagram.jpg)
